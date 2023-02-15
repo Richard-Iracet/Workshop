@@ -1,5 +1,5 @@
 # Workshop
-Página estática criada para um Workshop
+Página estática criada para um Workshop.
 
 Tecnologias usadas: HTML e CSS.
 
